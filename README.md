@@ -10,7 +10,7 @@ npm install -g ionic
 Navigate inside the top level folder using the command line:
 cd demoAppJeremy
 
-Install dependencies
+Install dependencies:
 npm install
 
 You are all set! You can now run the app:
